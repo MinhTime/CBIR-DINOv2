@@ -1,0 +1,35 @@
+# Secrets: never commit Kaggle credentials
+kaggle.json
+.kaggle/
+.env
+*.env
+
+# Runner state (local, contains kernel refs)
+kaggle_runs.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Data, checkpoints, large outputs
+data/
+cbir_data/
+*.pth
+*.pt
+*.ckpt
+*.tar.gz
+*.zip
+
+# Held / unrun notebooks
+*.ipynb.hold
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Run outputs (checkpoints, descriptors, results)
+outputs/
