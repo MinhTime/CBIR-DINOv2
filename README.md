@@ -14,7 +14,7 @@ then improved step by step. Each version changes **one factor** relative to the 
 Image → DINOv2 ViT-B/14 → Global descriptor (GeM or CLS) → L2 norm → Lw whitening → Nearest-neighbor search → Query expansion (αQE)
 ```
 
-## Results
+## Results:
 
 | Version | Change | ROxf Medium | ROxf Hard | RPar Medium | RPar Hard |
 |---|---|:-:|:-:|:-:|:-:|
