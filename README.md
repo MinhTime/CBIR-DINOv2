@@ -8,7 +8,7 @@ then improved step by step. Each version changes **one factor** relative to the 
 - **Test data:** ROxford5k and RParis6k, mAP on the Medium and Hard protocols
 - **Hardware:** Kaggle, T4 GPU
 
-## Pipeline
+## Pipeline:
 
 ```
 Image → DINOv2 ViT-B/14 → Global descriptor (GeM or CLS) → L2 norm → Lw whitening → Nearest-neighbor search → Query expansion (αQE)
