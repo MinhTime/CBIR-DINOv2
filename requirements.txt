@@ -5,7 +5,7 @@ numpy>=1.24
 pandas>=2.0
 Pillow>=9.5
 tqdm>=4.65
-# DINOv2 backbone is loaded via torch.hub (facebookresearch/dinov2), needs internet
+# DINOv2 backbone is loaded via torch.hub (facebookresearch/dinov2), needs internet on
 # automation/kaggle_runner.py
 kaggle>=1.6
 # figures/plot_results.py
