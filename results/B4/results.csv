@@ -1,0 +1,5 @@
+stage,dataset,head,scale,Lw,p,E_mAP,E_mP@1,E_mP@5,E_mP@10,M_mAP,M_mP@1,M_mP@5,M_mP@10,H_mAP,H_mP@1,H_mP@5,H_mP@10
+B3-finetune+aQE,roxford5k,cls,ss,True,3.0,87.91,94.12,93.53,92.61,74.09,92.86,91.14,88.29,54.6,85.71,78.57,69.68
+B3-finetune+aQE,roxford5k,cls,ms,True,3.0,85.97,89.71,90.29,90.05,72.49,88.57,88.57,86.29,53.58,84.29,75.43,66.41
+B3-finetune+aQE,rparis6k,cls,ss,True,3.0,95.58,98.57,97.71,96.94,90.17,100.0,99.43,98.14,77.73,95.71,92.57,89.0
+B3-finetune+aQE,rparis6k,cls,ms,True,3.0,95.2,97.14,97.43,96.57,89.89,100.0,98.57,97.86,77.24,95.71,91.14,88.14

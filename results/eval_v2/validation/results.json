@@ -1,0 +1,382 @@
+[
+ {
+  "model": "frozen",
+  "head": "gem",
+  "trained_head": false,
+  "scale": "ss",
+  "Lw": false,
+  "val_mAP": 76.95,
+  "val_mP10": 94.76,
+  "val_loss": 0.7586
+ },
+ {
+  "model": "frozen",
+  "head": "gem",
+  "trained_head": false,
+  "scale": "ss",
+  "Lw": true,
+  "val_mAP": 88.85,
+  "val_mP10": 97.85,
+  "val_loss": 0.7586
+ },
+ {
+  "model": "frozen",
+  "head": "cls",
+  "trained_head": true,
+  "scale": "ss",
+  "Lw": false,
+  "val_mAP": 87.81,
+  "val_mP10": 97.23,
+  "val_loss": 0.1421
+ },
+ {
+  "model": "frozen",
+  "head": "cls",
+  "trained_head": true,
+  "scale": "ss",
+  "Lw": true,
+  "val_mAP": 90.96,
+  "val_mP10": 98.1,
+  "val_loss": 0.1421
+ },
+ {
+  "model": "frozen",
+  "head": "avg",
+  "trained_head": false,
+  "scale": "ss",
+  "Lw": false,
+  "val_mAP": 77.26,
+  "val_mP10": 94.45,
+  "val_loss": 0.1739
+ },
+ {
+  "model": "frozen",
+  "head": "avg",
+  "trained_head": false,
+  "scale": "ss",
+  "Lw": true,
+  "val_mAP": 88.57,
+  "val_mP10": 97.98,
+  "val_loss": 0.1739
+ },
+ {
+  "model": "frozen",
+  "head": "gem_shift",
+  "trained_head": false,
+  "scale": "ss",
+  "Lw": false,
+  "val_mAP": 66.85,
+  "val_mP10": 92.43,
+  "val_loss": 1.0827
+ },
+ {
+  "model": "frozen",
+  "head": "gem_shift",
+  "trained_head": false,
+  "scale": "ss",
+  "Lw": true,
+  "val_mAP": 84.8,
+  "val_mP10": 97.49,
+  "val_loss": 1.0827
+ },
+ {
+  "model": "frozen",
+  "head": "gem_signed",
+  "trained_head": false,
+  "scale": "ss",
+  "Lw": false,
+  "val_mAP": 77.77,
+  "val_mP10": 94.65,
+  "val_loss": 0.1945
+ },
+ {
+  "model": "frozen",
+  "head": "gem_signed",
+  "trained_head": false,
+  "scale": "ss",
+  "Lw": true,
+  "val_mAP": 86.38,
+  "val_mP10": 97.13,
+  "val_loss": 0.1945
+ },
+ {
+  "model": "B0",
+  "head": "gem",
+  "trained_head": true,
+  "scale": "ss",
+  "Lw": false,
+  "val_mAP": 88.11,
+  "val_mP10": 97.72,
+  "val_loss": 0.1088
+ },
+ {
+  "model": "B0",
+  "head": "gem",
+  "trained_head": true,
+  "scale": "ss",
+  "Lw": true,
+  "val_mAP": 90.5,
+  "val_mP10": 98.2,
+  "val_loss": 0.1088
+ },
+ {
+  "model": "B0",
+  "head": "cls",
+  "trained_head": false,
+  "scale": "ss",
+  "Lw": false,
+  "val_mAP": 88.62,
+  "val_mP10": 97.71,
+  "val_loss": 0.1128
+ },
+ {
+  "model": "B0",
+  "head": "cls",
+  "trained_head": false,
+  "scale": "ss",
+  "Lw": true,
+  "val_mAP": 91.13,
+  "val_mP10": 98.55,
+  "val_loss": 0.1128
+ },
+ {
+  "model": "B0",
+  "head": "avg",
+  "trained_head": false,
+  "scale": "ss",
+  "Lw": false,
+  "val_mAP": 88.06,
+  "val_mP10": 97.66,
+  "val_loss": 0.1279
+ },
+ {
+  "model": "B0",
+  "head": "avg",
+  "trained_head": false,
+  "scale": "ss",
+  "Lw": true,
+  "val_mAP": 90.59,
+  "val_mP10": 98.36,
+  "val_loss": 0.1279
+ },
+ {
+  "model": "B0",
+  "head": "gem_shift",
+  "trained_head": false,
+  "scale": "ss",
+  "Lw": false,
+  "val_mAP": 31.71,
+  "val_mP10": 73.5,
+  "val_loss": 0.821
+ },
+ {
+  "model": "B0",
+  "head": "gem_shift",
+  "trained_head": false,
+  "scale": "ss",
+  "Lw": true,
+  "val_mAP": 84.61,
+  "val_mP10": 97.1,
+  "val_loss": 0.821
+ },
+ {
+  "model": "B0",
+  "head": "gem_signed",
+  "trained_head": false,
+  "scale": "ss",
+  "Lw": false,
+  "val_mAP": 88.09,
+  "val_mP10": 97.6,
+  "val_loss": 0.1319
+ },
+ {
+  "model": "B0",
+  "head": "gem_signed",
+  "trained_head": false,
+  "scale": "ss",
+  "Lw": true,
+  "val_mAP": 90.25,
+  "val_mP10": 98.23,
+  "val_loss": 0.1319
+ },
+ {
+  "model": "B1",
+  "head": "gem",
+  "trained_head": false,
+  "scale": "ss",
+  "Lw": false,
+  "val_mAP": 80.31,
+  "val_mP10": 96.1,
+  "val_loss": 0.7744
+ },
+ {
+  "model": "B1",
+  "head": "gem",
+  "trained_head": false,
+  "scale": "ss",
+  "Lw": true,
+  "val_mAP": 89.98,
+  "val_mP10": 98.37,
+  "val_loss": 0.7744
+ },
+ {
+  "model": "B1",
+  "head": "cls",
+  "trained_head": true,
+  "scale": "ss",
+  "Lw": false,
+  "val_mAP": 91.41,
+  "val_mP10": 98.35,
+  "val_loss": 0.0918
+ },
+ {
+  "model": "B1",
+  "head": "cls",
+  "trained_head": true,
+  "scale": "ss",
+  "Lw": true,
+  "val_mAP": 93.13,
+  "val_mP10": 98.89,
+  "val_loss": 0.0918
+ },
+ {
+  "model": "B1",
+  "head": "avg",
+  "trained_head": false,
+  "scale": "ss",
+  "Lw": false,
+  "val_mAP": 80.59,
+  "val_mP10": 95.77,
+  "val_loss": 0.2142
+ },
+ {
+  "model": "B1",
+  "head": "avg",
+  "trained_head": false,
+  "scale": "ss",
+  "Lw": true,
+  "val_mAP": 90.06,
+  "val_mP10": 98.45,
+  "val_loss": 0.2142
+ },
+ {
+  "model": "B2",
+  "head": "gem",
+  "trained_head": false,
+  "scale": "ss",
+  "Lw": false,
+  "val_mAP": 81.21,
+  "val_mP10": 96.2,
+  "val_loss": 0.6992
+ },
+ {
+  "model": "B2",
+  "head": "gem",
+  "trained_head": false,
+  "scale": "ss",
+  "Lw": true,
+  "val_mAP": 90.71,
+  "val_mP10": 98.67,
+  "val_loss": 0.6992
+ },
+ {
+  "model": "B2",
+  "head": "cls",
+  "trained_head": true,
+  "scale": "ss",
+  "Lw": false,
+  "val_mAP": 91.62,
+  "val_mP10": 98.51,
+  "val_loss": 0.0805
+ },
+ {
+  "model": "B2",
+  "head": "cls",
+  "trained_head": true,
+  "scale": "ss",
+  "Lw": true,
+  "val_mAP": 93.56,
+  "val_mP10": 99.06,
+  "val_loss": 0.0805
+ },
+ {
+  "model": "B2",
+  "head": "avg",
+  "trained_head": false,
+  "scale": "ss",
+  "Lw": false,
+  "val_mAP": 81.31,
+  "val_mP10": 95.86,
+  "val_loss": 0.1744
+ },
+ {
+  "model": "B2",
+  "head": "avg",
+  "trained_head": false,
+  "scale": "ss",
+  "Lw": true,
+  "val_mAP": 90.69,
+  "val_mP10": 98.74,
+  "val_loss": 0.1744
+ },
+ {
+  "model": "B3",
+  "head": "gem",
+  "trained_head": false,
+  "scale": "ss",
+  "Lw": false,
+  "val_mAP": 78.94,
+  "val_mP10": 95.6,
+  "val_loss": 0.7762
+ },
+ {
+  "model": "B3",
+  "head": "gem",
+  "trained_head": false,
+  "scale": "ss",
+  "Lw": true,
+  "val_mAP": 89.63,
+  "val_mP10": 98.29,
+  "val_loss": 0.7762
+ },
+ {
+  "model": "B3",
+  "head": "cls",
+  "trained_head": true,
+  "scale": "ss",
+  "Lw": false,
+  "val_mAP": 90.61,
+  "val_mP10": 98.1,
+  "val_loss": 0.0975
+ },
+ {
+  "model": "B3",
+  "head": "cls",
+  "trained_head": true,
+  "scale": "ss",
+  "Lw": true,
+  "val_mAP": 92.73,
+  "val_mP10": 98.83,
+  "val_loss": 0.0975
+ },
+ {
+  "model": "B3",
+  "head": "avg",
+  "trained_head": false,
+  "scale": "ss",
+  "Lw": false,
+  "val_mAP": 79.42,
+  "val_mP10": 95.31,
+  "val_loss": 0.2008
+ },
+ {
+  "model": "B3",
+  "head": "avg",
+  "trained_head": false,
+  "scale": "ss",
+  "Lw": true,
+  "val_mAP": 89.79,
+  "val_mP10": 98.35,
+  "val_loss": 0.2008
+ }
+]

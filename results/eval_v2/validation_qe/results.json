@@ -1,0 +1,470 @@
+[
+ {
+  "model": "frozen",
+  "alpha": "-",
+  "n": 0,
+  "val_mAP": 90.96
+ },
+ {
+  "model": "frozen",
+  "alpha": 0,
+  "n": 1,
+  "val_mAP": 91.26
+ },
+ {
+  "model": "frozen",
+  "alpha": 0,
+  "n": 2,
+  "val_mAP": 91.61
+ },
+ {
+  "model": "frozen",
+  "alpha": 0,
+  "n": 3,
+  "val_mAP": 91.66
+ },
+ {
+  "model": "frozen",
+  "alpha": 0,
+  "n": 5,
+  "val_mAP": 91.98
+ },
+ {
+  "model": "frozen",
+  "alpha": 0,
+  "n": 10,
+  "val_mAP": 92.18
+ },
+ {
+  "model": "frozen",
+  "alpha": 1,
+  "n": 1,
+  "val_mAP": 91.26
+ },
+ {
+  "model": "frozen",
+  "alpha": 1,
+  "n": 2,
+  "val_mAP": 91.58
+ },
+ {
+  "model": "frozen",
+  "alpha": 1,
+  "n": 3,
+  "val_mAP": 91.67
+ },
+ {
+  "model": "frozen",
+  "alpha": 1,
+  "n": 5,
+  "val_mAP": 91.93
+ },
+ {
+  "model": "frozen",
+  "alpha": 1,
+  "n": 10,
+  "val_mAP": 92.19
+ },
+ {
+  "model": "frozen",
+  "alpha": 3,
+  "n": 1,
+  "val_mAP": 91.18
+ },
+ {
+  "model": "frozen",
+  "alpha": 3,
+  "n": 2,
+  "val_mAP": 91.44
+ },
+ {
+  "model": "frozen",
+  "alpha": 3,
+  "n": 3,
+  "val_mAP": 91.56
+ },
+ {
+  "model": "frozen",
+  "alpha": 3,
+  "n": 5,
+  "val_mAP": 91.73
+ },
+ {
+  "model": "frozen",
+  "alpha": 3,
+  "n": 10,
+  "val_mAP": 92.0
+ },
+ {
+  "model": "frozen",
+  "alpha": 5,
+  "n": 1,
+  "val_mAP": 91.11
+ },
+ {
+  "model": "frozen",
+  "alpha": 5,
+  "n": 2,
+  "val_mAP": 91.29
+ },
+ {
+  "model": "frozen",
+  "alpha": 5,
+  "n": 3,
+  "val_mAP": 91.38
+ },
+ {
+  "model": "frozen",
+  "alpha": 5,
+  "n": 5,
+  "val_mAP": 91.52
+ },
+ {
+  "model": "frozen",
+  "alpha": 5,
+  "n": 10,
+  "val_mAP": 91.74
+ },
+ {
+  "model": "frozen",
+  "alpha": 10,
+  "n": 1,
+  "val_mAP": 91.03
+ },
+ {
+  "model": "frozen",
+  "alpha": 10,
+  "n": 2,
+  "val_mAP": 91.11
+ },
+ {
+  "model": "frozen",
+  "alpha": 10,
+  "n": 3,
+  "val_mAP": 91.16
+ },
+ {
+  "model": "frozen",
+  "alpha": 10,
+  "n": 5,
+  "val_mAP": 91.24
+ },
+ {
+  "model": "frozen",
+  "alpha": 10,
+  "n": 10,
+  "val_mAP": 91.36
+ },
+ {
+  "model": "B2",
+  "alpha": "-",
+  "n": 0,
+  "val_mAP": 93.56
+ },
+ {
+  "model": "B2",
+  "alpha": 0,
+  "n": 1,
+  "val_mAP": 93.9
+ },
+ {
+  "model": "B2",
+  "alpha": 0,
+  "n": 2,
+  "val_mAP": 94.12
+ },
+ {
+  "model": "B2",
+  "alpha": 0,
+  "n": 3,
+  "val_mAP": 94.21
+ },
+ {
+  "model": "B2",
+  "alpha": 0,
+  "n": 5,
+  "val_mAP": 94.32
+ },
+ {
+  "model": "B2",
+  "alpha": 0,
+  "n": 10,
+  "val_mAP": 94.71
+ },
+ {
+  "model": "B2",
+  "alpha": 1,
+  "n": 1,
+  "val_mAP": 93.88
+ },
+ {
+  "model": "B2",
+  "alpha": 1,
+  "n": 2,
+  "val_mAP": 94.09
+ },
+ {
+  "model": "B2",
+  "alpha": 1,
+  "n": 3,
+  "val_mAP": 94.18
+ },
+ {
+  "model": "B2",
+  "alpha": 1,
+  "n": 5,
+  "val_mAP": 94.28
+ },
+ {
+  "model": "B2",
+  "alpha": 1,
+  "n": 10,
+  "val_mAP": 94.6
+ },
+ {
+  "model": "B2",
+  "alpha": 3,
+  "n": 1,
+  "val_mAP": 93.78
+ },
+ {
+  "model": "B2",
+  "alpha": 3,
+  "n": 2,
+  "val_mAP": 93.96
+ },
+ {
+  "model": "B2",
+  "alpha": 3,
+  "n": 3,
+  "val_mAP": 94.05
+ },
+ {
+  "model": "B2",
+  "alpha": 3,
+  "n": 5,
+  "val_mAP": 94.13
+ },
+ {
+  "model": "B2",
+  "alpha": 3,
+  "n": 10,
+  "val_mAP": 94.38
+ },
+ {
+  "model": "B2",
+  "alpha": 5,
+  "n": 1,
+  "val_mAP": 93.72
+ },
+ {
+  "model": "B2",
+  "alpha": 5,
+  "n": 2,
+  "val_mAP": 93.85
+ },
+ {
+  "model": "B2",
+  "alpha": 5,
+  "n": 3,
+  "val_mAP": 93.91
+ },
+ {
+  "model": "B2",
+  "alpha": 5,
+  "n": 5,
+  "val_mAP": 93.98
+ },
+ {
+  "model": "B2",
+  "alpha": 5,
+  "n": 10,
+  "val_mAP": 94.14
+ },
+ {
+  "model": "B2",
+  "alpha": 10,
+  "n": 1,
+  "val_mAP": 93.64
+ },
+ {
+  "model": "B2",
+  "alpha": 10,
+  "n": 2,
+  "val_mAP": 93.7
+ },
+ {
+  "model": "B2",
+  "alpha": 10,
+  "n": 3,
+  "val_mAP": 93.72
+ },
+ {
+  "model": "B2",
+  "alpha": 10,
+  "n": 5,
+  "val_mAP": 93.77
+ },
+ {
+  "model": "B2",
+  "alpha": 10,
+  "n": 10,
+  "val_mAP": 93.83
+ },
+ {
+  "model": "B3",
+  "alpha": "-",
+  "n": 0,
+  "val_mAP": 92.73
+ },
+ {
+  "model": "B3",
+  "alpha": 0,
+  "n": 1,
+  "val_mAP": 93.07
+ },
+ {
+  "model": "B3",
+  "alpha": 0,
+  "n": 2,
+  "val_mAP": 93.32
+ },
+ {
+  "model": "B3",
+  "alpha": 0,
+  "n": 3,
+  "val_mAP": 93.51
+ },
+ {
+  "model": "B3",
+  "alpha": 0,
+  "n": 5,
+  "val_mAP": 93.62
+ },
+ {
+  "model": "B3",
+  "alpha": 0,
+  "n": 10,
+  "val_mAP": 94.06
+ },
+ {
+  "model": "B3",
+  "alpha": 1,
+  "n": 1,
+  "val_mAP": 93.04
+ },
+ {
+  "model": "B3",
+  "alpha": 1,
+  "n": 2,
+  "val_mAP": 93.26
+ },
+ {
+  "model": "B3",
+  "alpha": 1,
+  "n": 3,
+  "val_mAP": 93.45
+ },
+ {
+  "model": "B3",
+  "alpha": 1,
+  "n": 5,
+  "val_mAP": 93.59
+ },
+ {
+  "model": "B3",
+  "alpha": 1,
+  "n": 10,
+  "val_mAP": 94.0
+ },
+ {
+  "model": "B3",
+  "alpha": 3,
+  "n": 1,
+  "val_mAP": 92.95
+ },
+ {
+  "model": "B3",
+  "alpha": 3,
+  "n": 2,
+  "val_mAP": 93.11
+ },
+ {
+  "model": "B3",
+  "alpha": 3,
+  "n": 3,
+  "val_mAP": 93.28
+ },
+ {
+  "model": "B3",
+  "alpha": 3,
+  "n": 5,
+  "val_mAP": 93.44
+ },
+ {
+  "model": "B3",
+  "alpha": 3,
+  "n": 10,
+  "val_mAP": 93.78
+ },
+ {
+  "model": "B3",
+  "alpha": 5,
+  "n": 1,
+  "val_mAP": 92.89
+ },
+ {
+  "model": "B3",
+  "alpha": 5,
+  "n": 2,
+  "val_mAP": 93.02
+ },
+ {
+  "model": "B3",
+  "alpha": 5,
+  "n": 3,
+  "val_mAP": 93.11
+ },
+ {
+  "model": "B3",
+  "alpha": 5,
+  "n": 5,
+  "val_mAP": 93.23
+ },
+ {
+  "model": "B3",
+  "alpha": 5,
+  "n": 10,
+  "val_mAP": 93.46
+ },
+ {
+  "model": "B3",
+  "alpha": 10,
+  "n": 1,
+  "val_mAP": 92.8
+ },
+ {
+  "model": "B3",
+  "alpha": 10,
+  "n": 2,
+  "val_mAP": 92.87
+ },
+ {
+  "model": "B3",
+  "alpha": 10,
+  "n": 3,
+  "val_mAP": 92.91
+ },
+ {
+  "model": "B3",
+  "alpha": 10,
+  "n": 5,
+  "val_mAP": 92.96
+ },
+ {
+  "model": "B3",
+  "alpha": 10,
+  "n": 10,
+  "val_mAP": 93.05
+ }
+]

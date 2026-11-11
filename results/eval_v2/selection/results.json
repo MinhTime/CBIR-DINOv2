@@ -1,0 +1,18 @@
+[
+ {
+  "model": "B2",
+  "head": "cls",
+  "trained_head": true,
+  "scale": "ss",
+  "Lw": true,
+  "val_mAP": 93.56,
+  "val_mP10": 99.06,
+  "val_loss": 0.0805
+ },
+ {
+  "model": "alpha-QE (grid on B2)",
+  "chosen_alpha": 0,
+  "chosen_n": 10,
+  "val_mAP": 94.71
+ }
+]
